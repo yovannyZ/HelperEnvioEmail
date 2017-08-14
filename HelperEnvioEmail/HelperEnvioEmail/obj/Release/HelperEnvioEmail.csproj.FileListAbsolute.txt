@@ -1,0 +1,5 @@
+C:\Users\Yovanny\Documents\GitHub\HelperEnvioEmail\HelperEnvioEmail\HelperEnvioEmail\bin\Release\HelperEnvioEmail.dll
+C:\Users\Yovanny\Documents\GitHub\HelperEnvioEmail\HelperEnvioEmail\HelperEnvioEmail\bin\Release\HelperEnvioEmail.pdb
+C:\Users\Yovanny\Documents\GitHub\HelperEnvioEmail\HelperEnvioEmail\HelperEnvioEmail\obj\Release\HelperEnvioEmail.csprojResolveAssemblyReference.cache
+C:\Users\Yovanny\Documents\GitHub\HelperEnvioEmail\HelperEnvioEmail\HelperEnvioEmail\obj\Release\HelperEnvioEmail.dll
+C:\Users\Yovanny\Documents\GitHub\HelperEnvioEmail\HelperEnvioEmail\HelperEnvioEmail\obj\Release\HelperEnvioEmail.pdb
